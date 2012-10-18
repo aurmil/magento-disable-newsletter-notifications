@@ -1,0 +1,1 @@
+# Magento - Disable Newsletter Notifications extension
