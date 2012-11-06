@@ -19,7 +19,7 @@ Just download the "app" folder and paste it into the root directory of your Mage
 No Magento files will be modified but class "Mage_Newsletter_Model_Subscriber" will be extended.
 
 ## Usage
-In __System > Configuration > Newsletter__, this extension adds two new options: __Send Confirmation and Success Email__ and __Send Unsubscription Email__
+In __System > Configuration > Customers > Newsletter > Subscription Options__, this extension adds two new options: __Send Confirmation and Success Email__ and __Send Unsubscription Email__
 
 ![](http://1.bp.blogspot.com/-r_hayagFuE4/UHfIsIxlamI/AAAAAAAALMM/IsazmKjz868/s1600/newsletter.PNG)
 * Select "Yes" to stay with the Magento basic behavior
