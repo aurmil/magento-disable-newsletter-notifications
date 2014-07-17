@@ -5,8 +5,7 @@ extends Mage_Newsletter_Model_Subscriber
 {
     public function sendConfirmationRequestEmail()
     {
-        if (Mage::getStoreConfigFlag('newsletter/subscription/success_email_send'))
-        {
+        if (Mage::getStoreConfigFlag('newsletter/subscription/success_email_send')) {
             return parent::sendConfirmationRequestEmail();
         }
 
@@ -15,8 +14,7 @@ extends Mage_Newsletter_Model_Subscriber
 
     public function sendConfirmationSuccessEmail()
     {
-        if (Mage::getStoreConfigFlag('newsletter/subscription/success_email_send'))
-        {
+        if (Mage::getStoreConfigFlag('newsletter/subscription/success_email_send')) {
             return parent::sendConfirmationSuccessEmail();
         }
 
@@ -25,8 +23,7 @@ extends Mage_Newsletter_Model_Subscriber
 
     public function sendUnsubscriptionEmail()
     {
-        if (Mage::getStoreConfigFlag('newsletter/subscription/un_email_send'))
-        {
+        if (Mage::getStoreConfigFlag('newsletter/subscription/un_email_send')) {
             return parent::sendUnsubscriptionEmail();
         }
 
