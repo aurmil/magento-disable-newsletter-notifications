@@ -1,0 +1,8 @@
+{
+    "name": "aurmil/magento-disable-newsletter-notifications",
+    "type": "magento-module",
+    "description": "Magento - Disable Newsletter Notifications extension.",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

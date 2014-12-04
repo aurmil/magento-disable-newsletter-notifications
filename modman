@@ -1,0 +1,4 @@
+app/code/community/Aurmil/DisableNewsletterNotifications app/code/community/Aurmil/DisableNewsletterNotifications
+app/etc/modules/Aurmil_DisableNewsletterNotifications.xml app/etc/modules/Aurmil_DisableNewsletterNotifications.xml
+app/locale/en_US/Aurmil_DisableNewsletterNotifications.csv app/locale/en_US/Aurmil_DisableNewsletterNotifications.csv
+app/locale/fr_FR/Aurmil_DisableNewsletterNotifications.csv app/locale/fr_FR/Aurmil_DisableNewsletterNotifications.csv
