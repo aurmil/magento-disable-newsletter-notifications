@@ -1,0 +1,11 @@
+# code
+app/code/community/Aurmil/DisableNewsletterNotifications
+
+# module declaration
+app/etc/modules/Aurmil_DisableNewsletterNotifications.xml
+
+# English localization
+app/locale/en_US/Aurmil_DisableNewsletterNotifications.csv
+
+# French localization
+app/locale/fr_FR/Aurmil_DisableNewsletterNotifications.csv
