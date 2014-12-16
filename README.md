@@ -55,6 +55,8 @@ No Magento files will be modified but class __Mage\_Newsletter\_Model\_Subscribe
 }
 ```
 
+* Install or update your composer project dependencies
+
 ## Usage
 
 In __System > Configuration > Customers > Newsletter > Subscription Options__, this extension adds two new options: __Send Confirmation and Success Email__ and __Send Unsubscription Email__
