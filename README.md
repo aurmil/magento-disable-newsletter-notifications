@@ -30,6 +30,30 @@ No Magento files will be modified but class __Mage\_Newsletter\_Model\_Subscribe
 
 * ```$ modman clone git@github.com:aurmil/magento-disable-newsletter-notifications.git```
 
+### With composer
+
+* Adapt the following "composer.json" file into yours:
+
+```
+{
+	"require": {
+		"aurmil/magento-disable-newsletter-notifications": "dev-master"
+	},
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.firegento.com"
+        },
+        {
+            "type": "vcs",
+            "url": "git://github.com/aurmil/magento-disable-newsletter-notifications"
+        }
+    ],
+	"extra": {
+		"magento-root-dir": "./"
+	}
+}```
+
 ## Usage
 
 In __System > Configuration > Customers > Newsletter > Subscription Options__, this extension adds two new options: __Send Confirmation and Success Email__ and __Send Unsubscription Email__
