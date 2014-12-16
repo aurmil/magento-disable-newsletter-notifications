@@ -52,7 +52,8 @@ No Magento files will be modified but class __Mage\_Newsletter\_Model\_Subscribe
 	"extra": {
 		"magento-root-dir": "./"
 	}
-}```
+}
+```
 
 ## Usage
 
