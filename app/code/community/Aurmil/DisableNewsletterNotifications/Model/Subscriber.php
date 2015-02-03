@@ -4,7 +4,6 @@
  * @author     Aurélien Millet
  * @link       https://github.com/aurmil/
  */
-
 class Aurmil_DisableNewsletterNotifications_Model_Subscriber
 extends Mage_Newsletter_Model_Subscriber
 {
