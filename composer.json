@@ -1,9 +1,7 @@
 {
     "name": "aurmil/magento-disable-newsletter-notifications",
-    "description": "Magento - Disable Newsletter Notifications extension",
-    "type": "magento-module",
-    "keywords": ["newsletter"],
-    "homepage": "https://github.com/aurmil/magento-disable-newsletter-notifications",
+    "description": "Magento - Disable newsletter notifications extension",
+    "keywords": ["magento", "newsletter"],
     "authors": [
         {
             "name": "Aurélien Millet",
@@ -11,6 +9,8 @@
             "role": "Developer"
         }
     ],
+    "homepage": "https://github.com/aurmil/magento-disable-newsletter-notifications",
+    "type": "magento-module",
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
     }
