@@ -71,3 +71,7 @@ In __System > Configuration > Customers > Newsletter > Subscription Options__, t
 ### 1.0
 
 * initial release
+
+## License
+
+The MIT License (MIT). Please see [License File](https://github.com/aurmil/magento-disable-newsletter-notifications/blob/master/LICENSE.md) for more information.

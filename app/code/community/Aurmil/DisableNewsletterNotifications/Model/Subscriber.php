@@ -1,9 +1,10 @@
 <?php
-
 /**
- * @author     Aurélien Millet
- * @link       https://github.com/aurmil/
+ * @author Aurélien Millet
+ * @link https://github.com/aurmil/magento-disable-newsletter-notifications
+ * @license https://github.com/aurmil/magento-disable-newsletter-notifications/blob/master/LICENSE.md
  */
+
 class Aurmil_DisableNewsletterNotifications_Model_Subscriber
 extends Mage_Newsletter_Model_Subscriber
 {

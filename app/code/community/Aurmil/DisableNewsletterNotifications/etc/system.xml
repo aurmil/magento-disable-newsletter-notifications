@@ -1,4 +1,11 @@
 <?xml version="1.0"?>
+<!--
+/**
+ * @author Aurélien Millet
+ * @link https://github.com/aurmil/magento-disable-newsletter-notifications
+ * @license https://github.com/aurmil/magento-disable-newsletter-notifications/blob/master/LICENSE.md
+ */
+-->
 <config>
     <sections>
         <newsletter>
