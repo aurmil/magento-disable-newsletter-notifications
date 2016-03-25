@@ -1,4 +1,4 @@
-# Magento - Disable Newsletter Notifications extension
+# Magento - Disable newsletter notifications extension
 
 ## Overview
 
@@ -20,15 +20,15 @@ Tested on Magento CE 1.6 - 1.9
 
 No Magento files will be modified but class __Mage\_Newsletter\_Model\_Subscriber__ will be extended and some of its methods overridden.
 
+### With modman
+
+* ```$ modman clone git@github.com:aurmil/magento-disable-newsletter-notifications.git```
+
 ### Manually
 
 * Download the latest version of this module [here](https://github.com/aurmil/magento-disable-newsletter-notifications/archive/master.zip)
 * Unzip it
 * Move the "app" folder into the root directory of your Magento application, it will be merged with the existing "app" folder
-
-### With modman
-
-* ```$ modman clone git@github.com:aurmil/magento-disable-newsletter-notifications.git```
 
 ### With composer
 
@@ -36,9 +36,9 @@ No Magento files will be modified but class __Mage\_Newsletter\_Model\_Subscribe
 
 ```
 {
-	"require": {
-		"aurmil/magento-disable-newsletter-notifications": "dev-master"
-	},
+    "require": {
+        "aurmil/magento-disable-newsletter-notifications": "dev-master"
+    },
     "repositories": [
         {
             "type": "composer",
@@ -49,9 +49,9 @@ No Magento files will be modified but class __Mage\_Newsletter\_Model\_Subscribe
             "url": "git://github.com/aurmil/magento-disable-newsletter-notifications"
         }
     ],
-	"extra": {
-		"magento-root-dir": "./"
-	}
+    "extra": {
+        "magento-root-dir": "./"
+    }
 }
 ```
 
