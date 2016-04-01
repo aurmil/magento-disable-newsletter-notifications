@@ -9,7 +9,7 @@
 <config>
     <modules>
         <Aurmil_DisableNewsletterNotifications>
-            <version>1.0.0</version>
+            <version>1.1.1</version>
         </Aurmil_DisableNewsletterNotifications>
     </modules>
     <global>
