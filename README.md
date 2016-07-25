@@ -22,7 +22,7 @@ No Magento files will be modified but class __Mage\_Newsletter\_Model\_Subscribe
 
 ### With modman
 
-* ```$ modman clone git@github.com:aurmil/magento-disable-newsletter-notifications.git```
+* ```$ modman clone https://github.com/aurmil/magento-disable-newsletter-notifications.git```
 
 ### Manually
 
