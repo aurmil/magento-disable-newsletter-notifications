@@ -61,7 +61,7 @@ No Magento files will be modified but class __Mage\_Newsletter\_Model\_Subscribe
 
 In __System > Configuration > Customers > Newsletter > Subscription Options__, this extension adds two new options: __Send Success Email__ and __Send Unsubscription Email__
 
-![](http://1.bp.blogspot.com/-r_hayagFuE4/UHfIsIxlamI/AAAAAAAALMM/IsazmKjz868/s1600/newsletter.PNG)
+![](docs/images/block-emails-config.png)
 
 * Select "Yes" to stay with the Magento basic behavior
 * Select "No" (default value) to activate the extension
